@@ -1,0 +1,3 @@
+Hello server-side programmer.
+Learning NodeJS and Callbacks can be difficult to grasp.
+Keep working at it and it will make sense.
